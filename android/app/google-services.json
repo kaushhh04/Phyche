@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179913835997",
+    "project_id": "phyche-e4e72",
+    "storage_bucket": "phyche-e4e72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179913835997:android:89d3cc384e9fd1c10ae234",
+        "android_client_info": {
+          "package_name": "com.example.phyche"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179913835997-bnmqiqhok8caoiltt4083rqli6up2kmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9-K8csOcg0Y2TCzEqslEnHAAcfqj8Nd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179913835997-bnmqiqhok8caoiltt4083rqli6up2kmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
